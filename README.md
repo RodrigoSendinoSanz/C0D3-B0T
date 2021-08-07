@@ -3,9 +3,11 @@
 <img src="https://github.com/RodrigoSendinoSanz/C0D3-B0T/blob/main/img/header.gif" alt="cabecera">
 
 # Iniciar el bot:
- `npx nodemon index.js`
-#
 
+Link: https://discord.com/api/oauth2/authorize?client_id=872106636020445194&permissions=8&scope=bot
+
+Comandos de consola:
+ `npx nodemon index.js`
  `npm i distube`
  `npm i nodemon`
 
