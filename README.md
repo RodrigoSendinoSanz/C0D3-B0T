@@ -3,7 +3,11 @@
 <img src="https://github.com/RodrigoSendinoSanz/C0D3-B0T/blob/main/img/header.gif" alt="cabecera">
 
 # Iniciar el bot:
- 'npx nodemon index.js'
+ `npx nodemon index.js`
+#
+
+ `npm i distube`
+ `npm i nodemon`
 
 ## Comandos del bot:
 
