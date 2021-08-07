@@ -1,5 +1,8 @@
 npx nodemon index.js
 
+
+Para incluir el bot en un servidor: https://discord.com/api/oauth2/authorize?client_id=872106636020445194&permissions=8&scope=bot
+
 !ping
 !hola
 !adios
