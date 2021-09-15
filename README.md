@@ -20,6 +20,8 @@ Comandos de consola:
 - !cualesmiavatar
 - /join
 - /leave
+- !play (nombredecancion)
+- !stop
 - !creador
 - !CODEBOT
 - !comandos
